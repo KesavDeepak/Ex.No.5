@@ -99,7 +99,7 @@ The stack unwinds in reverse order ($1 \rightarrow 2 \rightarrow 6$) until the o
 3. **Are There Scenarios Where Naïve Prompts Work Equally Well?**
 * A naïve prompt works adequately when the user only needs a brief, top-level definition or quick reference. However, when the goal is comprehensive understanding, instruction, or implementation, refined prompting is necessary.
 
-
+https://github.com/KesavDeepak/Ex.No.5/blob/main/Prompt_Engineering_Single_Scenario_Report.pdf
 
 ---
 
